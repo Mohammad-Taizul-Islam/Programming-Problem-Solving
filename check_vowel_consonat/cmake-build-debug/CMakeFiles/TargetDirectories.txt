@@ -1,0 +1,3 @@
+/home/titan/CLionProjects/check_vowel_consonat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/titan/CLionProjects/check_vowel_consonat/cmake-build-debug/CMakeFiles/check_vowel_consonat.dir
+/home/titan/CLionProjects/check_vowel_consonat/cmake-build-debug/CMakeFiles/edit_cache.dir

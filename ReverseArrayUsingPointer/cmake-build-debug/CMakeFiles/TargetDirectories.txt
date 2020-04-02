@@ -1,0 +1,3 @@
+/home/titan/CLionProjects/ReverseArrayUsingPointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/titan/CLionProjects/ReverseArrayUsingPointer/cmake-build-debug/CMakeFiles/ReverseArrayUsingPointer.dir
+/home/titan/CLionProjects/ReverseArrayUsingPointer/cmake-build-debug/CMakeFiles/edit_cache.dir

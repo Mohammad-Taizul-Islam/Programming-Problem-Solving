@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Addiction_digits.dir/main.c.o  -o Addiction_digits 

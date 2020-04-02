@@ -1,0 +1,3 @@
+/home/titan/CLionProjects/basicCcodes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/titan/CLionProjects/basicCcodes/cmake-build-debug/CMakeFiles/basicCcodes.dir
+/home/titan/CLionProjects/basicCcodes/cmake-build-debug/CMakeFiles/edit_cache.dir

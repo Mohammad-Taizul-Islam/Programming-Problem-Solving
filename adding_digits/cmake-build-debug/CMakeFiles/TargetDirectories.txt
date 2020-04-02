@@ -1,0 +1,3 @@
+/home/titan/CLionProjects/adding_digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/titan/CLionProjects/adding_digits/cmake-build-debug/CMakeFiles/adding_digits.dir
+/home/titan/CLionProjects/adding_digits/cmake-build-debug/CMakeFiles/edit_cache.dir

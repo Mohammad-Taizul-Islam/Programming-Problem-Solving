@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ReverseArrayUsingPointer" targetName="ReverseArrayUsingPointer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7669e41-6814-4734-a048-4e122161b06b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Uw9mC7dERTNWA0ynNX3Mh2FYXx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReverseArrayUsingPointer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ReverseArrayUsingPointer" TARGET_NAME="ReverseArrayUsingPointer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ReverseArrayUsingPointer" RUN_TARGET_NAME="ReverseArrayUsingPointer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7669e41-6814-4734-a048-4e122161b06b" name="Default Changelist" comment="" />
+      <created>1576256946211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576256946211</updated>
+      <workItem from="1576256948251" duration="795000" />
+      <workItem from="1576331313655" duration="11000" />
+      <workItem from="1577671733610" duration="5000" />
+      <workItem from="1577795168319" duration="65000" />
+      <workItem from="1578094602735" duration="59000" />
+      <workItem from="1578131961660" duration="1134000" />
+      <workItem from="1578492297759" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1578132520300">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1578132520300" />
+    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1578132520299">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1578132520299" />
+    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1578132520299">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1578132520299" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1578132520300">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1578132520300" />
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1578492298773">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog/0.27.1366.676@0.27.1366.676" timestamp="1578492298773" />
+    <state x="396" y="27" width="563" height="676" key="refactoring.ChangeSignatureDialog" timestamp="1576257133496">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="396" y="27" width="563" height="676" key="refactoring.ChangeSignatureDialog/0.27.1366.676@0.27.1366.676" timestamp="1576257133496" />
+  </component>
+</project>

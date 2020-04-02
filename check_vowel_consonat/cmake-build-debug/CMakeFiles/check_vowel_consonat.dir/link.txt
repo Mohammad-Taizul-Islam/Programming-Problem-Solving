@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/check_vowel_consonat.dir/main.c.o  -o check_vowel_consonat 
